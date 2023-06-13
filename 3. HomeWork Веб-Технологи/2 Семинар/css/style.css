@@ -1,0 +1,50 @@
+body{
+ margin: 0;
+ background: url('../img/1617573937_19-p-polnostyu-chernii-fon-19.jpg');
+}
+
+.card{
+ width: 375px;
+ margin: 20px auto;
+ padding: 20px;
+ 
+ background-color: rgb(136, 130, 125);
+ box-shadow: 0 3px 50px rgb(9, 64, 61);
+ border-radius: 15px;
+}
+
+.card-text{
+ color: rgb(6, 6, 6);
+ font-size: 15px;
+ text-align: center;
+ font-family: Calibri;
+}
+
+.card-foto {
+ display: block;
+ width: 200px;
+ height: 200px;
+ margin: 0 auto;
+ border-radius: 25%;
+}
+
+.card{
+ font-size: 20px;
+ text-align: center; 
+}
+
+.card-list {
+ font-size: 16px;
+ color: rgb(6, 45, 43);
+ padding-left: 0;
+ list-style-position: inside;  
+ font-weight:00;
+}
+
+.card-title{
+font-size: 18px;
+color: rgb(6, 45, 43);
+padding-left: 0;
+list-style-position: inside;
+  
+}
